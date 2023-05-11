@@ -5,7 +5,7 @@ A loooong time ago, sometime in the early late 2000's, Autodesk added Python 2.7
 
 Over the years I compiled and maintained several versions of numpy, and shared them freely with Maya's community. It's been a great pleasure to see how it enabled TAs around the world in crafting incredible tools powered by numpy's powerful numeric applications.
 
-This github repo represents a historical resting place for the last versions I compiled:
+This github repo represents a historical resting place for the last versions I compiled and shared:
 
 - Numpy 1.13.1 + intel mkl libraries
 - Scipy 0.19.1
