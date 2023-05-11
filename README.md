@@ -7,5 +7,5 @@ Over the years I compiled and maintained several versions of numpy, and shared t
 
 This github repo represents a historical resting place for the last versions I compiled and shared:
 
-- Numpy 1.13.1 + intel mkl libraries
+- Numpy 1.13.1 + Intel mkl libraries
 - Scipy 0.19.1
