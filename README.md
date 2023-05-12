@@ -1,7 +1,7 @@
 # numpy-for-python-2.7-64bit
-Numpy packages built to link against Python 2.7 64bit
+Numpy packages built to link against Python 2.7 64 bit
 
-A loooong time ago, sometime in the early late 2000's, Autodesk added Python 2.7 as a scripting languages to Maya. 
+A loooong time ago, sometime in the late 2000's, Autodesk added Python 2.7 as a scripting languages to Maya. 
 
 Around the same time, Maya started to ship as a 64 bit application. Because Python 2.7 was officially released as 32 bit, this meant that official python packages with binary dependencies could not work in Maya natively, unless they were compiled specifically for a customized build of Python 2.7.
 
