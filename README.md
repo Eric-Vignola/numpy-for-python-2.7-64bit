@@ -11,3 +11,4 @@ This github repo represents a historical resting place for the last versions I c
 
 - Numpy 1.13.1 + Intel mkl libraries
 - Scipy 0.19.1
+
